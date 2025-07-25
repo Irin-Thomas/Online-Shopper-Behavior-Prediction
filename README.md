@@ -37,7 +37,7 @@ This project explores online shopper behavior using **supervised** and **unsuper
 - `PageValues` was identified as the **most important feature**, highlighting the importance of showing high-value content.
 - `ExitRates` and `ProductRelated_Duration` were also influential predictors.
 
-### 🔄 Unsupervised Learning
+###  🔄 Unsupervised Learning
 
 **K-Means Clustering** identified two major user groups:
 - **Cluster 1:** Casual browsers with low engagement.
