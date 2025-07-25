@@ -61,14 +61,9 @@ This project explores online shopper behavior using **supervised** and **unsuper
 - Explore deeper clustering using **DBSCAN** or **hierarchical clustering** for nuanced segments.
 
 ---
-##🧠 Lessons Learned
-Peer feedback helped improve report clarity, structure, and metric reporting.
 
-Integrating visuals with interpretations made the findings easier to digest.
 
-Concise, actionable communication is essential in collaborative data science.
-
-##📚 References
+## 📚 References
 UCI Machine Learning Repository - Online Shoppers Purchasing Intention Dataset[https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset]
 
 ##🧑‍💻 Author
