@@ -16,10 +16,10 @@ This project explores online shopper behavior using **supervised** and **unsuper
 ---
 ### 📂 Project Structure
 - Code
-    - Randon forest and Decision Tree
-    - K- Means Clustering
-- Figures
-- Report
+    - [Randon forest and Decision Tree](https://github.com/Irin-Thomas/Online-Shopper-Behavior-Prediction/blob/main/Code/Decision%20Tree%20and%20Random%20Forest.pynb)
+    - [K- Means Clustering](https://github.com/Irin-Thomas/Online-Shopper-Behavior-Prediction/blob/main/Code/K-Means%20Clustering.pynb)
+- [Figures-> Important Images(Decsion Tree, 3D Cluster. Silloutte Score, Confusion Matrix](https://github.com/Irin-Thomas/Online-Shopper-Behavior-Prediction/tree/main/Figures)
+- [Report-> Report about evrything done in this project](https://github.com/Irin-Thomas/Online-Shopper-Behavior-Prediction/tree/main/Figures)
   
 ---
 
