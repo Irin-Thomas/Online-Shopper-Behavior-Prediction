@@ -56,26 +56,20 @@ This project explores online shopper behavior using **supervised** and **unsuper
 
 ### 🧠 Decision Tree
 
-A sample decision tree used for classification:
-
-Decision Tree
-
 <img width="800" height="556" alt="image" src="https://github.com/user-attachments/assets/e6dd45ef-154a-46dc-b2d2-c1e9b7de033d" />
 
 ---
 
 ### 🔄 Confusion Matrix
 
-Visual evaluation of model performance:
 
-Confusion Matrix
 <img width="770" height="664" alt="image" src="https://github.com/user-attachments/assets/728557c8-4ed3-4d40-9703-3d5e0e3c51e7" />
 
 ---
 
 ### 🧩 3D Cluster Plot
 
-3D Cluster
+
 <img width="865" height="580" alt="image" src="https://github.com/user-attachments/assets/90b7da17-f7e3-489b-b7e8-77b800d9718b" />
 
 ---
@@ -83,6 +77,7 @@ Confusion Matrix
 ### Silhouette score 
 
 Silhouette score for optimal K
+
 <img width="817" height="554" alt="image" src="https://github.com/user-attachments/assets/59a67704-e20f-4221-9c9b-0bd04b8795ae" />
 
 ---
