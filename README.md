@@ -14,6 +14,14 @@ This project explores online shopper behavior using **supervised** and **unsuper
 - **Evaluation Metrics:** Accuracy, F1-Score, Silhouette Score
 
 ---
+### 📂 Project Structure
+- Code
+    - Randon forest and Decision Tree
+    - K- Means Clustering
+- Figures
+- Report
+  
+---
 
 ## 🔍 Objectives
 
@@ -70,11 +78,14 @@ Confusion Matrix
 3D Cluster
 <img width="865" height="580" alt="image" src="https://github.com/user-attachments/assets/90b7da17-f7e3-489b-b7e8-77b800d9718b" />
 
+---
+
 ### Silhouette score 
 
 Silhouette score for optimal K
 <img width="817" height="554" alt="image" src="https://github.com/user-attachments/assets/59a67704-e20f-4221-9c9b-0bd04b8795ae" />
 
+---
 
 ## 📈 Key Insights
 
@@ -96,6 +107,8 @@ Silhouette score for optimal K
 ## 📚 References
 - Citations and source materials are listed in the final report PDF [Online Shoppers Purchasing Intention-Irin Mary Thomas.pdf](https://github.com/Irin-Thomas/Online-Shopper-Behavior-Prediction/blob/main/Report/Online%20Shoppers%20Purchasing%20Intention-Irin%20Mary%20Thomas.pdf)
 - [UCI Machine Learning Repository - Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
+
+---
 
 ## 📬 Contact
 Author: Irin Mary Thomas
