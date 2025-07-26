@@ -62,12 +62,12 @@ This project explores online shopper behavior using **supervised** and **unsuper
 
 ---
 
-
 ## 📚 References
-[UCI Machine Learning Repository - Online Shoppers Purchasing Intention Dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
+Citations and source materials are listed in the final report PDF [Online Shoppers Purchasing Intention-Irin Mary Thomas.pdf](https://github.com/Irin-Thomas/Online-Shopper-Behavior-Prediction/blob/main/Report/Online%20Shoppers%20Purchasing%20Intention-Irin%20Mary%20Thomas.pdf)
+UCI Machine Learning Repository - Online Shoppers Purchasing Intention Dataset[https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset]
 
-##🧑‍💻 Author
-Irin Thomas
-
+## 📬 Contact
+Author: Irin Mary Thomas
+Email: irinthomas0@gmail.com
 
 
